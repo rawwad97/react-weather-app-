@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://cool-florentine-1729b5.netlify.app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Rawan Awwad
           </a>{" "}
@@ -20,9 +20,17 @@ export default function App() {
           <a
             href="https://github.com/rawwad97/react-weather-app-"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://peaceful-pegasus-e24265.netlify.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
